@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sluca\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sluca\\.nuget\\packages"
+    ]
+  }
+}
